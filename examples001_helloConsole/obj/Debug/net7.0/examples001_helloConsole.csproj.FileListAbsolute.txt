@@ -1,0 +1,15 @@
+C:\Users\Айвар\Desktop\Examples\examples001_helloConsole\bin\Debug\net7.0\examples001_helloConsole.exe
+C:\Users\Айвар\Desktop\Examples\examples001_helloConsole\bin\Debug\net7.0\examples001_helloConsole.deps.json
+C:\Users\Айвар\Desktop\Examples\examples001_helloConsole\bin\Debug\net7.0\examples001_helloConsole.runtimeconfig.json
+C:\Users\Айвар\Desktop\Examples\examples001_helloConsole\bin\Debug\net7.0\examples001_helloConsole.dll
+C:\Users\Айвар\Desktop\Examples\examples001_helloConsole\bin\Debug\net7.0\examples001_helloConsole.pdb
+C:\Users\Айвар\Desktop\Examples\examples001_helloConsole\obj\Debug\net7.0\examples001_helloConsole.csproj.AssemblyReference.cache
+C:\Users\Айвар\Desktop\Examples\examples001_helloConsole\obj\Debug\net7.0\examples001_helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Айвар\Desktop\Examples\examples001_helloConsole\obj\Debug\net7.0\examples001_helloConsole.AssemblyInfoInputs.cache
+C:\Users\Айвар\Desktop\Examples\examples001_helloConsole\obj\Debug\net7.0\examples001_helloConsole.AssemblyInfo.cs
+C:\Users\Айвар\Desktop\Examples\examples001_helloConsole\obj\Debug\net7.0\examples001_helloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Айвар\Desktop\Examples\examples001_helloConsole\obj\Debug\net7.0\examples001_helloConsole.dll
+C:\Users\Айвар\Desktop\Examples\examples001_helloConsole\obj\Debug\net7.0\refint\examples001_helloConsole.dll
+C:\Users\Айвар\Desktop\Examples\examples001_helloConsole\obj\Debug\net7.0\examples001_helloConsole.pdb
+C:\Users\Айвар\Desktop\Examples\examples001_helloConsole\obj\Debug\net7.0\examples001_helloConsole.genruntimeconfig.cache
+C:\Users\Айвар\Desktop\Examples\examples001_helloConsole\obj\Debug\net7.0\ref\examples001_helloConsole.dll
